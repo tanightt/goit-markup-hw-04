@@ -307,11 +307,6 @@ margin-right: auto;
     background-color: var(--text-selection);
 }
 
-.social-icon {
-    width: 12px;
-    height: 12px;
-}
-
 .customers-list {
     display: flex;
     justify-content: space-between;
@@ -333,8 +328,6 @@ margin-right: auto;
 }
 
 .customers-icon {
-    width: 104px;
-    height: 56px;
     fill: #8e8f99;
 }
 
@@ -435,12 +428,6 @@ width: calc((100% - 48px) / 3);
     color: var(--backgrount-color);
     margin-bottom: 16px;
 }
-
- 
- .footer-icon {
-    width: 24px;
-    height: 24px;
- }
 
 .social-footer:hover,
 .social-footer:focus {
