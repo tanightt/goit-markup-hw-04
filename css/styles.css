@@ -327,21 +327,21 @@ margin-right: auto;
     border-radius: 4px;
 }
 
+.customers-link:hover,
+.customers-link:focus {
+    border: 1px solid var(--text-selection);
+}
+
 .customers-icon {
     width: 104px;
     height: 56px;
-    /* margin: 16px 32px; */
-    fill: currentColor;
+    fill: #8e8f99;
 }
 
 .customers-icon:hover,
 .customers-icon:focus {
     fill: var(--text-selection);
 }
-
-.customers-link:hover,
-.customers-link:focus {
-    border: 1px solid var(--text-selection);}
 
 /******************************* portfolio */
 
